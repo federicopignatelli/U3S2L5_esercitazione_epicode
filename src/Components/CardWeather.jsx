@@ -57,7 +57,7 @@ const CardWeather = () => {
             <Container fluid className='container mt-3'>
                 <Row className='justify-content-center align-items-center'>
                     {WeatherInfo !== null ? (
-                        <Col>
+                        <Col className='col-12 col-mb-10'>
                             <Card className='greycard'>
                                 <Card.Body>
                                     <Card.Title className='fs-2'>

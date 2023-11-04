@@ -28,7 +28,7 @@ body {
 }
 
 .greycard {
-  width: 33vh;
+  width: 100%;
   background-color: #f5f5fa !important;
   box-shadow: 1px 0px 18px 5px #dbdbdb;
   border: none !important
